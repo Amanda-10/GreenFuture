@@ -1,6 +1,6 @@
 # Agro Forte, Futuro Sustentável 🌱
 
-Projeto desenvolvido para o Programa Agrinho 2026.
+Projeto desenvolvido para o Programa Agrinho 2026: Greenfuture by Amanda
 
 ## Tecnologias Utilizadas
 - HTML5
